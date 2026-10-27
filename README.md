@@ -5,8 +5,8 @@ Heart disease detection - Predictive Analytics
 Heart disease is a leading cause of mortality worldwide. **Early detection** and **accurate** prediction of heart disease can significantly improve patient outcomes by enabling **timely intervention** and **preventive measures**. The objective of this project is to develop a machine learning model that can effectively predict the presence or absence of heart disease based on **various medical** and **lifestyle factors**.
 
 ## Data Information
-• The dataset provided for this project is a subset of data our team worked on for a project of **Parkway Pantai** to understand the influence of various factors on the heart disease.
-• The data provided to you contains all the required detail to understand the impact on heart such as cholesterol level, blood pressure, alcohol consumption etc.
+• The dataset provided for this project is a subset of data our team worked on for a project of **Parkway Pantai** to understand the influence of various factors on the heart disease. \
+• The data provided to you contains all the required detail to understand the impact on heart such as cholesterol level, blood pressure, alcohol consumption etc. \
 • All the information about the features is present in Data_Dictionary.pdf
 
 ## Create models to predict heart disease.
