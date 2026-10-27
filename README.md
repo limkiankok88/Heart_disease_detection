@@ -23,7 +23,8 @@ By WHO, about 17.9 million deaths per year, contribute to some 32% of all deaths
 Some 80% of premature cardiovascular disease CVD cases are preventable.
 
 ![Dashboard](Power_BI/Dashboard.png)
-![Dashboard](Power_BI/MainFeature.png)
+
+![Dashboard](Power_BI/MainFeatures.png)
 
 ## Insights
 * 4 Main features:
