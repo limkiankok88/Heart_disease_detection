@@ -42,8 +42,8 @@ Some 80% of premature cardiovascular disease CVD cases are preventable.
 Pain radiating to jaw, neck, arm or back
 
 ## Prevention Checklist
-✓  Eat a balanced diet — vegetables, whole grains, healthy fats; less salt & sugar
-✓  Exercise regularly — at least 150 min/week of moderate activity
+✓  Eat a balanced diet — vegetables, whole grains, healthy fats; less salt & sugar \
+✓  Exercise regularly — at least 150 min/week of moderate activity \
 ✓  Do not smoke; avoid secondhand smoke
 ✓  Limit alcohol and maintain a healthy weight	
 ✓  Control blood pressure, cholesterol & blood sugar
