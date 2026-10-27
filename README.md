@@ -22,6 +22,8 @@ Heart Disease is number 1 cause of death worldwide.
 By WHO, about 17.9 million deaths per year, contribute to some 32% of all deaths.
 Some 80% of premature cardiovascular disease CVD cases are preventable.
 
+![Dashboard](PowerBI/Dashboard.png)
+![Dashboard](PowerBI/MainFeature.png)
 
 ## Insights
 * 4 Main features:
