@@ -19,19 +19,21 @@ Some 80% of premature cardiovascular disease CVD cases are preventable.
 
 
 ## Insights
-* 4 Main features: age_group, ap_hi, ap_lo, cholesterol. 71% accuracy \
+* 4 Main features:
+  age_group, ap_hi, ap_lo, cholesterol.
+  71% accuracy
 + Age group getting heart disease
 >= 30 - 24.3% \
 >= 40 - 38.0% \
 >= 50 - 51.6% \
->= 60 - 67.0% \
+>= 60 - 67.0%
 + Blood Pressure heart disease when ap_hi > 130, ap_lo > 90
-+ Cholesterol
++ Cholesterol \
 1 - 44% \
 2 - 60.2% \
 3 - 76.5%
 
-+ Surprise that there is no significance of heart disease by country, occupation, gender, physical activity, alcohol consumption, glucose level, smoking.
++ Surprise that there is no significance of heart disease by country, occupation, gender, physical activity, alcohol consumption, glucose level, smoking. Maybe the dataset is old or not real.
 
 ## Warning Signs
 + Chest pain, pressure or tightness (angina)
