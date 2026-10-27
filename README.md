@@ -7,10 +7,10 @@ Heart disease is a leading cause of mortality worldwide. **Early detection** and
 ## Create models to predict heart disease.
 + Linear Logistic Regression \
 + Linear Support Vector Machine \
-K Nearest Neighbours \
-Naive Bayes \
-Decision Tree \
-Random Forest
++ K Nearest Neighbours \
++ Naive Bayes \
++ Decision Tree \
++ Random Forest
 
 ## General Observations
 Heart Disease is number 1 cause of death worldwide.
