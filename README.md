@@ -29,7 +29,7 @@ Some 80% of premature cardiovascular disease CVD cases are preventable.
 ## Insights
 * 4 Main features:
   **age_group**, **ap_hi**, **ap_lo**, **cholesterol**.
-  71% accuracy
+  73% accuracy
 + Age group getting heart disease
 \ '>= 30 - 24.3% \
 '>= 40 - 38.0% \
